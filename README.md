@@ -1,2 +1,0 @@
-# Hacker-Holidays
-CTF Tutorial
